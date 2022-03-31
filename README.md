@@ -42,4 +42,20 @@ $ node ./ex3.js
 
 ---
 
+# Exercícios Recapitulação
+
+Para rodar os exercícios de recapitulação é só colocar no terminal o comando:
+
+```bash
+cd exercicios_recapitulacao/
+```
+
+e executar os arquivos da pasa com o Node. EX.:
+
+```bash
+$ node ./nomeDoArquivo.js
+```
+
+---
+
 _Feito por [Heitor Schumann](https://www.linkedin.com/in/heitorschumann/)_
